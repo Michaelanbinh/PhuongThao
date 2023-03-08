@@ -2,7 +2,7 @@
 const authens = [
     {
         id: '1',
-        pw: 'cogaingocnghech',
+        pw: 'motconvitxoerahai con thằn lan con',
     }
 ];
 
